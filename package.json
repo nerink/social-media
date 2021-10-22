@@ -19,7 +19,7 @@
   "homepage": "https://github.com/nerink/social-media#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "mongoose": "^5.10.17",
+    "mongoose": "^5.13.12",
     "node": "^15.2.1"
   }
 }
