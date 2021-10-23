@@ -49,7 +49,8 @@ The final animation shows the POST and DELETE routes for a user’s friend list 
 
 ## Demo
 -Link to Demo:
-
+https://watch.screencastify.com/v/WIa0ELVyJhl7ECuFj9xk OR
+https://drive.google.com/file/d/12oYe8sAztTcP7n2T_B8pCvQwF0Nt-92F/view 
 ## Example
 - Users API Route  : http://localhost:3001/api/users/ or http://localhost:3001/api/users/{SPECIFIC ID}
 - Thoughts API Route:http://localhost:3001/api/thoughts/ or http://localhost:3001/api/users/{SPECIFIC ID}

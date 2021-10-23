@@ -23,7 +23,6 @@ router
     .delete(removeThought)
 
 router
-// /api/thoughts/:thoughtId/reactions
     .route('/:thoughtId/reactions')
     .post(addReaction)
     .delete(removeReaction)
